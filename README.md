@@ -1,5 +1,5 @@
 <div align="center">
-  <a href="https://facebook.com/itsmaazmalick/" target="_blank">
+  <a href="https://facebook.com/itsmaazmalick/">
   <img src="https://instagram.fisb18-1.fna.fbcdn.net/v/t51.2885-19/298854168_121679807125186_7089865577219907772_n.jpg?stp=dst-jpg_s150x150&_nc_ht=instagram.fisb18-1.fna.fbcdn.net&_nc_cat=110&_nc_ohc=hiEvBM2hEyIAX_z1LBh&edm=AB32dywBAAAA&ccb=7-5&oh=00_AT-Z1Yqjx_7FoAGhAFreO5D_DkQrRowC2gIpb0mvhzd1MQ&oe=63328B6E&_nc_sid=c59781" style="max-width: 100%; display: inline-block;"></a>
   </div>
   
