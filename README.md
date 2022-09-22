@@ -1,4 +1,7 @@
-
+<div align="center">
+  <img src="https://instagram.fisb18-1.fna.fbcdn.net/v/t51.2885-19/298854168_121679807125186_7089865577219907772_n.jpg?stp=dst-jpg_s150x150&_nc_ht=instagram.fisb18-1.fna.fbcdn.net&_nc_cat=110&_nc_ohc=hiEvBM2hEyIAX_z1LBh&edm=AB32dywBAAAA&ccb=7-5&oh=00_AT-Z1Yqjx_7FoAGhAFreO5D_DkQrRowC2gIpb0mvhzd1MQ&oe=63328B6E&_nc_sid=c59781" width="150px" height="150px">
+  </div>
+  
 <h1 align="center" dir="auto"><a id="user-content-hi--im-muhammad-hassan-farid" class="anchor" aria-hidden="true" href="#hi--im-muhammad-hassan-farid"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a>Hi <g-emoji class="g-emoji" alias="wave" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f44b.png">👋</g-emoji>, I'm MAAZ MALICK</h1>
 <div>
   <h3 align="center">I am a web developer with vast array of knowledge in many different languages, responsive frameworks, databases, and best code practice. My objective is simply to be the best web developer that I can be and to contribute to the technology industry all that I know and can do. </h3>
